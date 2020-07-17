@@ -1,6 +1,6 @@
-# XueYuanYuan
+# WeiTanTiYuZhuanJia
 
-XueYuanYuan is committed to promoting professional and high-quality ball sports equipment, so that people can efficiently buy the best ball sports equipment in their daily life.
+WeiTanTiYuZhuanJia is committed to promoting professional and high-quality ball sports equipment, so that people can efficiently buy the best ball sports equipment in their daily life.
 
 - Our app displays a full range of ball sports equipment, including badminton racket, badminton, playing sportswear, playing protection, basketball, table tennis, table tennis racket, tennis racket and other ball sports equipment. These kinds of complete ball games equipment can meet the user's choice and purchase.
 
@@ -12,7 +12,7 @@ XueYuanYuan is committed to promoting professional and high-quality ball sports 
 
 - If you have any problem in the process of placing your order, please contact us at the personal center. We will solve the problem for you at any time.
 
-The most professional ball sports equipment in XueYuanYuan.
+The most professional ball sports equipment in WeiTanTiYuZhuanJia.
 
 If you have any questions, please contact us as follows :ys54399@21cn.com
 
