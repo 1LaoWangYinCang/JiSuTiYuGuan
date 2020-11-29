@@ -1,6 +1,6 @@
 # YueLeJieTiao
 
-Yuelue Iou is an APP that records IOU ious, summarizes account transactions and reasonably plans accounts. It is a very convenient account record management tool, which can record every payment anytime and anywhere to avoid forgetting over time. Record at any time between friends to return accounts, replace the traditional paper iOU IOU, more convenient and safe.
+YueLeJieTiao is an APP that records IOU ious, summarizes account transactions and reasonably plans accounts. It is a very convenient account record management tool, which can record every payment anytime and anywhere to avoid forgetting over time. Record at any time between friends to return accounts, replace the traditional paper iOU IOU, more convenient and safe.
 
 The main functions of the homepage are to summarize account transactions, add iOU ious, calculate interest on arrears, and consult questions, which greatly facilitate people's life.
 
