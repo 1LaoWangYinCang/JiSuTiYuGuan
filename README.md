@@ -1,16 +1,16 @@
-# YueLeJieTiao
+# YiKuaiJieTiao
 
-YueLeJieTiao is an APP that records IOU ious, summarizes account transactions and reasonably plans accounts. It is a very convenient account record management tool, which can record every payment anytime and anywhere to avoid forgetting over time. Record at any time between friends to return accounts, replace the traditional paper iOU IOU, more convenient and safe.
+YiKuaiJieTiao is an APP that records the debit and return accounts between friends, signs up for iou related lectures, and shares iOU related information. It is a very convenient record management tool. Our APP can quickly add iOU and IOU records, easily register and reserve lectures, and check hot information at any time.
 
-The main functions of the homepage are to summarize account transactions, add iOU ious, calculate interest on arrears, and consult questions, which greatly facilitate people's life.
+- Our APP can record every payment anytime and anywhere to avoid forgetting it over time. It can also mark important accounts to remind ourselves at any time.
 
-Mark important accounts to remind yourself of them and to avoid forgetting them.
+- Our APP also has interest calculation function, which can accurately calculate the amount of interest, which is professional, reliable and convenient for life.
 
-Plan Your life by putting your money in order and keeping a record of your plans.
+- Our APP can also make an appointment to register iOU related lectures, so that you can have a deeper understanding of IOU and avoid accounting disputes.
 
-[My] main functions are to clear the cache, contact customer service, feedback, password modification and other functions, comprehensive functions, at a glance.
+- our APP can also check the information about account borrowing and returning at any time, share thumb up news and information you like, and express your own opinions and opinions.
 
-Record and return accounts for daily life
+Quick record of accounts, easy access to information, efficient booking lectures!
 
-If you have any questions, please contact us as follows :bnd31m@126.com
+If you have any questions, please contact us as follows :vz6hqn@126.com
 
