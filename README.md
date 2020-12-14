@@ -6,9 +6,8 @@ ZhuoShiXiaoJin allows people to easily and conveniently record the debit and ret
 
 - Our APP also has a professional interest calculation function, which can accurately calculate the amount of interest. It is professional and reliable, convenient and quick to calculate interest.
 
--Our app can also learn to share the common sense of IOU, understand the nature and norms of IOU, and avoid disputes over accounts in daily life.
+- Our app can also learn to share the common sense of IOU, understand the nature and norms of IOU, and avoid disputes over accounts in daily life.
 
 Simple operation, easy to record, convenient life.
-
 If you have any questions, please contact us as follows :jysj7z@126.com
 
