@@ -1,10 +1,14 @@
-# YouYiJieTiao
+# ZhuoShiXiaoJin
 
-Let people can easily and conveniently record the IOU ious in life, but also can learn the basic knowledge of IOU iOU, can effectively and high-quality appointment to iOU IOU explanation course, so that you understand the nature of account transactions and common sense, avoid accounting disputes.
+ZhuoShiXiaoJin allows people to easily and conveniently record the debit and return of accounts in their daily life, record the personal exchanges in their lives, and at the same time make an appointment for the explanation course of iOU account with high efficiency and quality, so that you can understand the nature of account transactions and legal knowledge, and avoid account disputes.
 
-Our APP has the function of marking important accounts, marking important accounts to avoid forgetting them over time. At the same time, our interest calculation function is very professional and reliable, and the problem consultation is also convenient and simple. We can also quickly book iOU COURSES, learn to share the basic knowledge of IOU, understand the essence and norms of IOU, and avoid accounting disputes.
+- Our app can also mark important accounts and mark important accounts to remind ourselves at any time and avoid forgetting them.
 
-The operation is simple and easy to record so that you leisurely life!
+- Our APP also has a professional interest calculation function, which can accurately calculate the amount of interest. It is professional and reliable, convenient and quick to calculate interest.
 
-If you have any questions, please contact us as follows :direct_solutions@icloud.com
+Our app can also learn to share the common sense of IOU, understand the nature and norms of IOU, and avoid disputes over accounts in daily life.
+
+Simple operation, easy to record, convenient life.
+
+If you have any questions, please contact us as follows :jysj7z@126.com
 
